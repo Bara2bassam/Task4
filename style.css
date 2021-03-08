@@ -1,0 +1,115 @@
+/* Start Global */
+*{
+    padding:0;
+    margin:0;
+}
+.container{
+    width:80%;
+    margin:0 auto;
+}
+/* Start Global */
+
+/* Start Navbar */
+nav{
+    height:100px;
+    width:100%;
+}
+nav img{
+    margin-top:50px; 
+    float: left;   
+}
+nav ul{
+    list-style: none;
+    float: right;
+    
+ }
+ nav ul li{
+    display: inline-block;
+    margin-top:50px;
+    margin-right:40px;
+ }
+ 
+/* End Navbar */
+
+/* Start Main */
+main{
+    width:80%;
+    height:400px;
+    background-color: #7551EA;
+    margin:0 auto;
+    text-align: center;
+    color:#FFF;
+}
+main h1{
+    padding-top:160px;
+}
+main p{
+    margin-top:10px;
+}
+a{
+    color:azure;
+}
+/* End Main */
+
+/* Start Form */
+.form{
+    width:100%;
+    margin: 100px auto;
+}
+section{
+    float:left;
+}
+p{
+    margin-left:35px;
+}
+.address{
+    width:25%;
+    height:100px;
+}
+
+input{
+    width:420px;
+    padding:10px;
+    margin-bottom: 5px;
+}
+.input2{
+    margin-left: 35px;
+}
+textarea{
+    width:420px;
+    height: 128px;
+}
+button{
+    float:right;
+    padding:15px 50px;
+    margin-top:20px;
+    border: none;
+    border-radius: 5px;
+    color:#FFF;
+    background-color: #854FEE;
+}
+/* End Form */
+
+/* Start Iframe */
+iframe{
+    width:100%;
+    height:450px;
+    margin-top:20px;
+}
+/* End Iframe */
+
+/* Start footer */
+footer{
+    text-align: center;
+    margin:20px 0;
+}
+h4{
+    margin-top:10px;
+}
+p{
+    color:#777777;
+}
+span{
+    color:#854FEE;
+}
+/* End footer */
